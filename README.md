@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @khizir
+- 👀 I’m interested in Promming
+- 🌱 I’m currently learning Front-End-Development
+- 📫 How to reach me : +923136976949
