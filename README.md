@@ -1,3 +1,3 @@
 - @khizir
-- Front-End-Developer
+- MERN Stack
 - +923136976949
